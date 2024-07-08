@@ -216,5 +216,3 @@ On container(to prevent float overflowing):
 
 > @media print and (max-width:600px){
 > }
-
-------------END-----------
